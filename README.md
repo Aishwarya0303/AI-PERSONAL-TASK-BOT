@@ -1,4 +1,4 @@
-# AI Personal Task Bot 🤖
+AI Personal Task Bot 
 
 ## Features
 - Task reminders
