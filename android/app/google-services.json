@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "344183238958",
+    "project_id": "ai-personal-bot",
+    "storage_bucket": "ai-personal-bot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344183238958:android:b3af6c9168b4aa54554abf",
+        "android_client_info": {
+          "package_name": "com.example.ai_taskbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344183238958-oi7icrnng8t56qa2f2141i258aq0iimd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ai_taskbot",
+            "certificate_hash": "df8e328918ac494f42012845ac4053f3e9cd9b98"
+          }
+        },
+        {
+          "client_id": "344183238958-1a3i65lcviuvu1rm9vteqh2f7deckl73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh5BuW1C8DR6-n8lp7PZ0Xy1v91Y8lqHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344183238958-1a3i65lcviuvu1rm9vteqh2f7deckl73.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344183238958-oa6gbo68pln6nk9317tfj06n8u9cb42g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiTaskbot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
